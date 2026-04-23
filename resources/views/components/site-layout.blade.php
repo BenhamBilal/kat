@@ -12,6 +12,7 @@
 <nav class="bg-amber-400">
     <a href="/">Welcome</a>
     <a href="/Contact">Contact</a>
+    <a href="/About">About</a>
 </nav>
 <h1>Hello, world!</h1>
 
