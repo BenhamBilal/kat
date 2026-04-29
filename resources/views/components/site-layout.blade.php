@@ -15,6 +15,7 @@
     <a href="/About">About</a>
 </nav>
 <h1>Hello, world!</h1>
+</br>
 
 <main>
     {{$slot}}
